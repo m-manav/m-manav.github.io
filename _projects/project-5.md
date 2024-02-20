@@ -1,5 +1,5 @@
 ---
-title: "Learning to print"
+title: "Fracture mechanics with physics-informed AI"
 collection: projects
 ---
 
