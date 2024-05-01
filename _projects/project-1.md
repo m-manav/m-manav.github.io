@@ -1,5 +1,5 @@
 ---
-title: "Mode localization in weeakly coupled microelectromechanical resonators"
+title: "Mode localization in weakly coupled microelectromechanical resonators"
 collection: projects
 ---
 
