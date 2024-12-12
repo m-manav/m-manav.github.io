@@ -7,4 +7,4 @@ collection: projects
   
 [1] **Manav, M.**, Molinaro, R., Mishra, S., & De Lorenzis, L. (2024). <u><a href="https://doi.org/10.1016/j.cma.2024.117104">Phase-field modeling of fracture with physics-informed deep learning</a>.</u> *Computer Methods in Applied Mechanics and Engineering*, 429, 117104.  
   
-[2] Kiyani, E., **Manav, M.**, Kadivar, N., De Lorenzis, L. & Karniadakis, G. Physics-informed deep learning for parametric phase-field fracture modeling. *In preparation*.
+[2] Kiyani, E., **Manav, M.**, Kadivar, N., De Lorenzis, L., & Karniadakis, G. Physics-informed deep learning for parametric phase-field fracture modeling. *In preparation*.
