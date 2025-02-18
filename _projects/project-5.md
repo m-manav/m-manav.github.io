@@ -7,6 +7,6 @@ collection: projects
   
 [1] **Manav, M.**, Molinaro, R., Mishra, S., & De Lorenzis, L. (2024). <u><a href="https://doi.org/10.1016/j.cma.2024.117104">Phase-field modeling of fracture with physics-informed deep learning</a>.</u> *Computer Methods in Applied Mechanics and Engineering*, 429, 117104.  
   
-[2] Kiyani, E., **Manav, M.**, Kadivar, N., De Lorenzis, L., & Karniadakis, G. Predicting crack nucleation and propagation in brittle materials using deep operator networks with diverse trunk architectures. *In preparation*.
+[2] Kiyani, E., **Manav, M.**, Kadivar, N., De Lorenzis, L., & Karniadakis, G. (2025). <u><a href="https://arxiv.org/abs/2501.00016">Predicting crack nucleation and propagation in brittle materials using deep operator networks with diverse trunk architectures</a>.</u> *arXiv preprint arXiv:2501.00016.*
 
 [3] Heinzmann, J., Carrara, P., Luo, C., **Manav, M.**, Mishra, A., Nagaraja, S., Oudich, H., Vicentini, F., & De Lorenzis, L. (2024). <u><a href="https://doi.org/10.1016/j.engfracmech.2024.110319">Calibration and Validation of a Phase-Field Model of Brittle Fracture within the Damage Mechanics Challenge</a>.</u> *Engineering Fracture Mechanics*, 307, 110319.
