@@ -1,5 +1,5 @@
 ---
-title: "Visualizing energy landscape in phase-field fracture"
+title: "Visualizing energy landscape in phase-field fracture using deep learning"
 collection: projects
 ---
 
