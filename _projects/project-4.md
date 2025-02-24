@@ -1,5 +1,5 @@
 ---
-title: "Learning to print"
+title: "Implicit neural representation for 3D printing process optimization"
 collection: projects
 ---
 
